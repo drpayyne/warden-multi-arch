@@ -22,6 +22,9 @@ RUN npm install -g n \
     && n install ${NODE_VERSION} \
     && rm -rf /usr/local/n/versions/node
 
+# Install & Enable MySQLi for WordPress sites
+RUN docker-php-ext-install mysqli
+
 COPY docker-entrypoint /usr/local/bin/
 COPY etc/profile.d/*.sh /etc/profile.d/
 COPY etc/*.ini /etc/
