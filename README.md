@@ -45,8 +45,8 @@ Add the registry & user prefix of `ghcr.io/drpayyne/` to all the below packages 
 | Magepack | <ul><li>`warden-magepack` (latest)</li><li>`warden-magepack:2.3`</li></ul> |
 | MailHog | <ul><li>`warden-mailhog` (latest)</li><li>`warden-mailhog:1.0`</li></ul> |
 | Nginx | <ul><li>`warden-nginx` (latest)</li><li>`warden-nginx:1.18`</li><li>`warden-nginx:1.17`</li><li>`warden-nginx:1.16`</li></ul> |
-| Elasticsearch | <ul><li>`warden-elasticsearch` (latest)</li><li>`warden-elasticsearch:7.13`</li><li>`warden-elasticsearch:7.10`</li><li>`warden-elasticsearch:7.9`</li></ul> |
-| Varnish | <ul><li>`warden-varnish` (latest)</li><li>`warden-varnish:6.5`</li><li>`warden-varnish:6.4`</li><li>`warden-varnish:6.0`</li></ul> |
+| Elasticsearch | <ul><li>`warden-elasticsearch` (latest)</li><li>`warden-elasticsearch:7.16`</li><li>`warden-elasticsearch:7.13`</li><li>`warden-elasticsearch:7.10`</li><li>`warden-elasticsearch:7.9`</li></ul> |
+| Varnish | <ul><li>`warden-varnish` (latest)</li><li>`warden-varnish:7.1`</li><li>`warden-varnish:7.0`</li><li>`warden-varnish:6.5`</li><li>`warden-varnish:6.4`</li><li>`warden-varnish:6.0`</li></ul> |
 
 ## Steps to rebuild PHP images
 
