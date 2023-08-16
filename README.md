@@ -1,3 +1,7 @@
+![Maintenance](https://img.shields.io/maintenance/no/2023)
+
+> This repository is no longer maintained as [the parent repository](https://github.com/wardenenv/) is now actively maintained and supports the Apple Silicon architecture. Thank you for your support! I'll be back in about 30 years when Apple breaks things again.
+
 # Warden
 
 ![Docker Image Architures](https://img.shields.io/badge/architecture-arm64%20%7C%20amd64-success)
